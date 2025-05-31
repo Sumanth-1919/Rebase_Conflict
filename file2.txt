@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 lion 
 dog
 cat 
 elephant
 cow
+=======
+fishes
+hens
+sparrows
+sea
+>>>>>>> 16454fe (commited)
